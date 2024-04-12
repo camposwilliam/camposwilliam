@@ -1,4 +1,4 @@
-# 🚂 William de Campos
+# William de Campos
 
 Sou um Arquiteto de Soluções Cloud apaixonado por desafios que envolvem a convergência entre tecnologia e inovação. Com uma sólida experiência em DevOps, meu foco está na criação e implementação de soluções eficientes utilizando plataformas como Azure e AWS.
 
@@ -8,14 +8,6 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 
 #
  
-
-### ☁️ Clouds 
-
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-</br>
-
 ### 🧰 Tools 
 
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
