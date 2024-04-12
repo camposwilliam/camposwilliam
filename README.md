@@ -29,7 +29,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 **### 🎓 Certifications
 
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Network Engineer Associate]([https://images.credly.com/size/110x110/images/8fd13e7e-531d-4c17-87fc-8a93fa1eebdf/image.png](https://www.credly.com/earner/earned/badge/fe2d1538-c42c-42fb-9ddf-b1f7289a9d7f))](http://www.credly.com/badges/f1701bc1-1d0b-4584-92e2-32359429c62d "HashiCorp Ambassador 2024")
+[![Microsoft Certified: Azure Network Engineer Associate]([https://images.credly.com/size/110x110/images/8fd13e7e-531d-4c17-87fc-8a93fa1eebdf/image.png](https://www.credly.com/earner/earned/badge/fe2d1538-c42c-42fb-9ddf-b1f7289a9d7f))](https://www.credly.com/badges/fe2d1538-c42c-42fb-9ddf-b1f7289a9d7f)
 <!--END_SECTION:badges-->
 
 [![AZ 400](https://images.credly.com/size/100x100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/devops-engineer?tab=credentials-tab "AZ 400")
