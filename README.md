@@ -33,6 +33,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/340x340/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](https://www.credly.com/badges/fe2d1538-c42c-42fb-9ddf-b1f7289a9d7f "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/66d2cc53-5e5e-4aff-9a12-27a7f7064315 "Microsoft Certified: Azure Solutions Architect Expert")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e35bbba7-544b-40b2-bf60-34ff80072448 "AWS Certified Solutions Architect – Associate")
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/earner/earned/badge/f7096534-de90-4148-a9d1-142f87e40383 "Microsoft Certified: DevOps Engineer Expert")
 <!--END_SECTION:badges-->
 
 
