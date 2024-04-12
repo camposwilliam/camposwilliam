@@ -26,7 +26,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 
 </br>
 
-**### 🎓 Certifications
+### 🎓 Certifications
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/340x340/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](https://www.credly.com/badges/fe2d1538-c42c-42fb-9ddf-b1f7289a9d7f "Microsoft Certified: Azure Network Engineer Associate")
