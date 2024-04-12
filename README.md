@@ -20,6 +20,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/earner/earned/badge/39b16960-2646-4adc-b1f0-8ee51cbfa587 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/earner/earned/badge/14263d99-a626-4a96-ae12-237ef555e393 "Microsoft Certified: Azure Data Fundamentals")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e35bbba7-544b-40b2-bf60-34ff80072448 "AWS Certified Solutions Architect – Associate")
+[![Linux Professional Institute LPIC-1](https://www.lpi.org/wp-content/webp-express/webp-images/uploads/2023/04/LPIC-1_0.jpg.webp)](https://www.credly.com/badges/e35bbba7-544b-40b2-bf60-34ff80072448 "Linux Professional Institute LPIC-1")
 <!--END_SECTION:badges-->
 
 
