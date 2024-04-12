@@ -17,6 +17,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e35bbba7-544b-40b2-bf60-34ff80072448 "AWS Certified Solutions Architect – Associate")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/earner/earned/badge/f7096534-de90-4148-a9d1-142f87e40383 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure for SAP Workloads Specialty](https://images.credly.com/size/110x110/images/ddbc1680-ddc8-4fe6-899b-a69f4fcc251f/specialty-azure-for-sap-workloads-600x600.png)](https://www.credly.com/earner/earned/badge/846d62d5-96b5-42ae-bf2c-2672361d87ee "Microsoft Certified: Azure for SAP Workloads Specialty")
+[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/earner/earned/badge/39b16960-2646-4adc-b1f0-8ee51cbfa587 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 <!--END_SECTION:badges-->
 
 
