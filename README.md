@@ -1,7 +1,10 @@
-# 🚂 William de campos 
-**`Digital Craftsman (Automator/Creator)`**
+# 🚂 William de Campos
 
-I'm a Senior Infrastructure Engineer who uses DevOps principles to create and automate things, always reutilizing existing code. All projects are built from planning and designing all the way to solving real-life problems.
+Sou um Arquiteto de Soluções Cloud apaixonado por desafios que envolvem a convergência entre tecnologia e inovação. Com uma sólida experiência em DevOps, meu foco está na criação e implementação de soluções eficientes utilizando plataformas como Azure e AWS.
+
+Minha especialização inclui estratégias de containernização, com expertise em Kubernetes, EKS, AKS, ECS e serviços como ACI (Azure Container Instances), trabalhando para orquestrar ambientes de aplicativos de forma ágil e escalável. Além disso, tenho ampla experiência em gerenciamento de bancos de dados PaaS, otimizando sua performance e disponibilidade na nuvem.
+
+Sou entusiasta de automações e scripts para otimizar processos, utilizando ferramentas como Azure DevOps, GitHub Actions e outras tecnologias que impulsionam a entrega contínua e a integração de maneira eficiente.
 
 #
 
