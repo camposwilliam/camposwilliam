@@ -26,6 +26,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 
 </br>
 
+
 **### 🎓 Certifications
 
 <!--START_SECTION:badges-->
