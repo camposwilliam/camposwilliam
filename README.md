@@ -34,6 +34,7 @@ Sou entusiasta de automações e scripts para otimizar processos, utilizando fer
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](https://www.credly.com/badges/66d2cc53-5e5e-4aff-9a12-27a7f7064315 "Microsoft Certified: Azure Solutions Architect Expert")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e35bbba7-544b-40b2-bf60-34ff80072448 "AWS Certified Solutions Architect – Associate")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://www.credly.com/earner/earned/badge/f7096534-de90-4148-a9d1-142f87e40383 "Microsoft Certified: DevOps Engineer Expert")
+[![Microsoft Certified: Azure for SAP Workloads Specialty](https://images.credly.com/size/110x110/images/ddbc1680-ddc8-4fe6-899b-a69f4fcc251f/specialty-azure-for-sap-workloads-600x600.png)](https://www.credly.com/earner/earned/badge/846d62d5-96b5-42ae-bf2c-2672361d87ee "Microsoft Certified: Azure for SAP Workloads Specialty")
 <!--END_SECTION:badges-->
 
 
