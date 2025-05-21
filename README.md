@@ -1,10 +1,10 @@
 # William de Campos
 
-Sou um Arquiteto de Soluções Cloud apaixonado por desafios que envolvem a convergência entre tecnologia e inovação. Com uma sólida experiência em DevOps, meu foco está na criação e implementação de soluções eficientes utilizando plataformas como Azure e AWS.
+I am a Cloud Solutions Architect passionate about challenges that bring together technology and innovation. With strong experience in DevOps, my focus is on designing and implementing efficient cloud solutions using platforms such as Azure, AWS, and Google Cloud (GCP).
 
-Minha especialização inclui estratégias de containernização, com expertise em Kubernetes, EKS, AKS, ECS e serviços como ACI (Azure Container Instances), trabalhando para orquestrar ambientes de aplicativos de forma ágil e escalável. Além disso, tenho ampla experiência em gerenciamento de bancos de dados PaaS, otimizando sua performance e disponibilidade na nuvem.
+My expertise includes containerization strategies, with hands-on experience in Kubernetes, EKS, AKS, ECS, and services like Azure Container Instances (ACI). I orchestrate scalable and agile application environments, and I have broad experience in managing PaaS database services, optimizing their performance and availability in the cloud.
 
-Sou entusiasta de automações e scripts para otimizar processos, utilizando ferramentas como Azure DevOps, GitHub Actions e outras tecnologias que impulsionam a entrega contínua e a integração de maneira eficiente.
+I’m also an enthusiast of automation and infrastructure as code, leveraging tools and practices such as Azure DevOps, GitHub Actions, CI/CD pipelines, and GitOps to streamline continuous delivery and efficient integration workflows..
 
 #
 </br>
